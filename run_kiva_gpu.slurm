@@ -6,7 +6,8 @@
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=32G
 #SBATCH --partition=gpu
-#SBATCH --gres=gpu:shard:1
+#SBATCH --gres=shard:1
+#SBATCH --exclude=node1
 #SBATCH --time=02:00:00
 
 # Activate your own miniconda installation/environment
