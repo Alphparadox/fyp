@@ -157,7 +157,7 @@ if __name__ == "__main__":
         print("Usage: python kiva_rule_transfer_and_select_gpu.py A.png B.png C.png cand1.png cand2.png cand3.png out.png")
         sys.exit(1)
     print("[INFO] Starting processing...")
-    from kiva_rule_transfer_and_select import processAndSelect
+    from fyp import processAndSelect
     pathA, pathB, pathC, cand1, cand2, cand3, outp = sys.argv[1:8]
     bestIdx, scores, changes, transformed = processAndSelect(pathA, pathB, pathC, [cand1,cand2,cand3], outTransformedPath=outp)
     print(f"[RESULT] Selected candidate index: {bestIdx}")
