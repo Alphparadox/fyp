@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
+# kiva_rule_transfer_and_select_gpu.py
+
 import sys
-import os
 import cv2
 import numpy as np
 import torch
@@ -13,6 +14,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"[INFO] Using device: {device}")
 print(f"[INFO] CUDA available: {torch.cuda.is_available()}")
 
+# ---------- Utility: align B to A ----------
 def alignImages(imgRef, imgToAlign, maxFeatures=4000, goodMatchPct=0.15):
     grayRef = cv2.cvtColor(imgRef, cv2.COLOR_BGR2GRAY)
     grayTo = cv2.cvtColor(imgToAlign, cv2.COLOR_BGR2GRAY)
@@ -38,6 +40,7 @@ def alignImages(imgRef, imgToAlign, maxFeatures=4000, goodMatchPct=0.15):
     aligned = cv2.warpPerspective(imgToAlign, H, (width, height), flags=cv2.INTER_LINEAR)
     return aligned, H
 
+# ---------- Change Mask ----------
 def getChangeMask(imgA, imgB, blurSize=5, minArea=200):
     diff = cv2.absdiff(imgA, imgB)
     gray = cv2.cvtColor(diff, cv2.COLOR_BGR2GRAY)
@@ -57,6 +60,7 @@ def getChangeMask(imgA, imgB, blurSize=5, minArea=200):
         cv2.rectangle(mask, (x,y), (x+w, y+h), 255, -1)
     return mask, boxes
 
+# ---------- Region Analysis ----------
 def countConnectedComponents(patch):
     gray = cv2.cvtColor(patch, cv2.COLOR_BGR2GRAY)
     _, th = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
@@ -116,16 +120,7 @@ def analyzeRegion(imgA, imgB, bbox):
                 return {"type":"count_change","bbox":bbox,"countA":compA,"countB":compB}
     return {"type":"complex","bbox":bbox}
 
-def imageSSIM(img1, img2):
-    try:
-        g1 = cv2.cvtColor(img1, cv2.COLOR_BGR2GRAY)
-        g2 = cv2.cvtColor(img2, cv2.COLOR_BGR2GRAY)
-        g1s = cv2.resize(g1, (224,224))
-        g2s = cv2.resize(g2, (224,224))
-        return sk_ssim(g1s, g2s)
-    except:
-        return 0.0
-
+# ---------- VGG16 Similarity ----------
 vgg = None
 preprocess_vgg = transforms.Compose([
     transforms.ToPILImage(),
@@ -156,48 +151,13 @@ def vggFeatureCosine(img1, img2):
     except:
         return 0.0
 
-def processAndSelect(pathA, pathB, pathC, candPaths, outTransformedPath=None):
-    imgA = cv2.imread(pathA)
-    imgB = cv2.imread(pathB)
-    imgC = cv2.imread(pathC)
-    if imgA is None or imgB is None or imgC is None:
-        raise ValueError("Could not read one or more images.")
-    alignedB, H = alignImages(imgA, imgB)
-    mask, boxes = getChangeMask(imgA, alignedB)
-    changes = []
-    for b in boxes:
-        ch = analyzeRegion(imgA, alignedB, b)
-        changes.append(ch)
-    transformedC = imgC # Placeholder, replace this line with your actual applyChangesToC function if needed
-    if outTransformedPath:
-        Image.fromarray(cv2.cvtColor(transformedC, cv2.COLOR_BGR2RGB)).save(outTransformedPath)
-    scores = []
-    for cp in candPaths:
-        cand = cv2.imread(cp)
-        if cand is None:
-            scores.append((-9999.0, -9999.0))
-            continue
-        ssimScore = imageSSIM(transformedC, cand)
-        vggScore = vggFeatureCosine(transformedC, cand)
-        combined = 0.45 * ssimScore + 0.55 * ((vggScore + 1.0) / 2.0)
-        scores.append((combined, ssimScore))
-    bestIdx = int(np.argmax([s[0] for s in scores]))
-    return bestIdx, scores, changes, transformedC
-
+# ---------- Entrypoint ----------
 if __name__ == "__main__":
     if len(sys.argv) < 8:
-        print("Usage: python fyp.py A.png B.png C.png cand1.png cand2.png cand3.png out_transformed.png")
+        print("Usage: python kiva_rule_transfer_and_select_gpu.py A.png B.png C.png cand1.png cand2.png cand3.png out.png")
         sys.exit(1)
     print("[INFO] Starting processing...")
-    pathA, pathB, pathC = sys.argv[1], sys.argv[2], sys.argv[3]
-    candPaths = sys.argv[4:7]
-    outp = sys.argv[7]
-    bestIdx, scores, changes, transformed = processAndSelect(pathA, pathB, pathC, candPaths, outTransformedPath=outp)
+    from fyp import processAndSelect
+    pathA, pathB, pathC, cand1, cand2, cand3, outp = sys.argv[1:8]
+    bestIdx, scores, changes, transformed = processAndSelect(pathA, pathB, pathC, [cand1,cand2,cand3], outTransformedPath=outp)
     print(f"[RESULT] Selected candidate index: {bestIdx}")
-    print("Scores (combined, ssim):")
-    for i,s in enumerate(scores):
-        print(f"  Candidate {i}: combined={s[0]:.4f}, ssim={s[1]:.4f}")
-    print("Detected changes:")
-    for ch in changes:
-        print(" ", ch)
-    print("Transformed image saved to:", outp)
