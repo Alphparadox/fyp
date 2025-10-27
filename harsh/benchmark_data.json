@@ -1,0 +1,2102 @@
+[
+    {
+        "input_image": "harsh/SodaCan_2DRotation+90_0_test_0_input.png",
+        "option_image_a": "harsh/SodaCan_2DRotation+90_0_test_mc_0_input.png",
+        "option_image_b": "harsh/SodaCan_2DRotation+90_0_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Olaf_2DRotation+90_1_test_0_input.png",
+        "option_image_a": "harsh/Olaf_2DRotation+90_1_test_mc_0_input.png",
+        "option_image_b": "harsh/Olaf_2DRotation+90_1_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/lizard_2DRotation+90_2_test_0_input.png",
+        "option_image_a": "harsh/lizard_2DRotation+90_2_test_mc_0_input.png",
+        "option_image_b": "harsh/lizard_2DRotation+90_2_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/rose_2DRotation+90_3_test_0_input.png",
+        "option_image_a": "harsh/rose_2DRotation+90_3_test_mc_0_input.png",
+        "option_image_b": "harsh/rose_2DRotation+90_3_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/snake2_2DRotation+90_4_test_0_input.png",
+        "option_image_a": "harsh/snake2_2DRotation+90_4_test_mc_0_input.png",
+        "option_image_b": "harsh/snake2_2DRotation+90_4_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/sofa2_2DRotation+90_5_test_0_input.png",
+        "option_image_a": "harsh/sofa2_2DRotation+90_5_test_mc_0_input.png",
+        "option_image_b": "harsh/sofa2_2DRotation+90_5_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Barn_2DRotation+90_6_test_0_input.png",
+        "option_image_a": "harsh/Barn_2DRotation+90_6_test_mc_0_input.png",
+        "option_image_b": "harsh/Barn_2DRotation+90_6_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/pizza_2DRotation+90_7_test_0_input.png",
+        "option_image_a": "harsh/pizza_2DRotation+90_7_test_mc_0_input.png",
+        "option_image_b": "harsh/pizza_2DRotation+90_7_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/sandwich_2DRotation+90_8_test_0_input.png",
+        "option_image_a": "harsh/sandwich_2DRotation+90_8_test_mc_0_input.png",
+        "option_image_b": "harsh/sandwich_2DRotation+90_8_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/spiderman_2DRotation+90_9_test_0_input.png",
+        "option_image_a": "harsh/spiderman_2DRotation+90_9_test_mc_0_input.png",
+        "option_image_b": "harsh/spiderman_2DRotation+90_9_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/horse_2DRotation+90_10_test_0_input.png",
+        "option_image_a": "harsh/horse_2DRotation+90_10_test_mc_0_input.png",
+        "option_image_b": "harsh/horse_2DRotation+90_10_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Knight_2DRotation+90_11_test_0_input.png",
+        "option_image_a": "harsh/Knight_2DRotation+90_11_test_mc_0_input.png",
+        "option_image_b": "harsh/Knight_2DRotation+90_11_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Motorbike_2DRotation+90_12_test_0_input.png",
+        "option_image_a": "harsh/Motorbike_2DRotation+90_12_test_mc_0_input.png",
+        "option_image_b": "harsh/Motorbike_2DRotation+90_12_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/sofaLshaped_2DRotation+90_13_test_0_input.png",
+        "option_image_a": "harsh/sofaLshaped_2DRotation+90_13_test_mc_0_input.png",
+        "option_image_b": "harsh/sofaLshaped_2DRotation+90_13_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Sonic_2DRotation+90_14_test_0_input.png",
+        "option_image_a": "harsh/Sonic_2DRotation+90_14_test_mc_0_input.png",
+        "option_image_b": "harsh/Sonic_2DRotation+90_14_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/sink_2DRotation+90_15_test_0_input.png",
+        "option_image_a": "harsh/sink_2DRotation+90_15_test_mc_0_input.png",
+        "option_image_b": "harsh/sink_2DRotation+90_15_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/shoe2_2DRotation+90_16_test_0_input.png",
+        "option_image_a": "harsh/shoe2_2DRotation+90_16_test_mc_0_input.png",
+        "option_image_b": "harsh/shoe2_2DRotation+90_16_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/dog_2DRotation+90_17_test_0_input.png",
+        "option_image_a": "harsh/dog_2DRotation+90_17_test_mc_0_input.png",
+        "option_image_b": "harsh/dog_2DRotation+90_17_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Birdie_2DRotation+90_18_test_0_input.png",
+        "option_image_a": "harsh/Birdie_2DRotation+90_18_test_mc_0_input.png",
+        "option_image_b": "harsh/Birdie_2DRotation+90_18_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/fridge_2DRotation+90_19_test_0_input.png",
+        "option_image_a": "harsh/fridge_2DRotation+90_19_test_mc_0_input.png",
+        "option_image_b": "harsh/fridge_2DRotation+90_19_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/chairwood_2DRotation+90_20_test_0_input.png",
+        "option_image_a": "harsh/chairwood_2DRotation+90_20_test_mc_0_input.png",
+        "option_image_b": "harsh/chairwood_2DRotation+90_20_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Submarine_2DRotation+90_21_test_0_input.png",
+        "option_image_a": "harsh/Submarine_2DRotation+90_21_test_mc_0_input.png",
+        "option_image_b": "harsh/Submarine_2DRotation+90_21_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/PowerpuffGirl_2DRotation+90_22_test_0_input.png",
+        "option_image_a": "harsh/PowerpuffGirl_2DRotation+90_22_test_mc_0_input.png",
+        "option_image_b": "harsh/PowerpuffGirl_2DRotation+90_22_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/FilmClapper_2DRotation+90_23_test_0_input.png",
+        "option_image_a": "harsh/FilmClapper_2DRotation+90_23_test_mc_0_input.png",
+        "option_image_b": "harsh/FilmClapper_2DRotation+90_23_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/coffee_2DRotation+90_24_test_0_input.png",
+        "option_image_a": "harsh/coffee_2DRotation+90_24_test_mc_0_input.png",
+        "option_image_b": "harsh/coffee_2DRotation+90_24_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/sheep_2DRotation+90_25_test_0_input.png",
+        "option_image_a": "harsh/sheep_2DRotation+90_25_test_mc_0_input.png",
+        "option_image_b": "harsh/sheep_2DRotation+90_25_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/squirrel_2DRotation+90_26_test_0_input.png",
+        "option_image_a": "harsh/squirrel_2DRotation+90_26_test_mc_0_input.png",
+        "option_image_b": "harsh/squirrel_2DRotation+90_26_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/cookiefortune_2DRotation+90_27_test_0_input.png",
+        "option_image_a": "harsh/cookiefortune_2DRotation+90_27_test_mc_0_input.png",
+        "option_image_b": "harsh/cookiefortune_2DRotation+90_27_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/fan_2DRotation+90_28_test_0_input.png",
+        "option_image_a": "harsh/fan_2DRotation+90_28_test_mc_0_input.png",
+        "option_image_b": "harsh/fan_2DRotation+90_28_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/grapes_2DRotation+90_29_test_0_input.png",
+        "option_image_a": "harsh/grapes_2DRotation+90_29_test_mc_0_input.png",
+        "option_image_b": "harsh/grapes_2DRotation+90_29_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/penguin_2DRotation+90_30_test_0_input.png",
+        "option_image_a": "harsh/penguin_2DRotation+90_30_test_mc_0_input.png",
+        "option_image_b": "harsh/penguin_2DRotation+90_30_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/milkcat_2DRotation+90_31_test_0_input.png",
+        "option_image_a": "harsh/milkcat_2DRotation+90_31_test_mc_0_input.png",
+        "option_image_b": "harsh/milkcat_2DRotation+90_31_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/deer_2DRotation+90_32_test_0_input.png",
+        "option_image_a": "harsh/deer_2DRotation+90_32_test_mc_0_input.png",
+        "option_image_b": "harsh/deer_2DRotation+90_32_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/shoe1_2DRotation+90_33_test_0_input.png",
+        "option_image_a": "harsh/shoe1_2DRotation+90_33_test_mc_0_input.png",
+        "option_image_b": "harsh/shoe1_2DRotation+90_33_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/ChessBishop_2DRotation+90_34_test_0_input.png",
+        "option_image_a": "harsh/ChessBishop_2DRotation+90_34_test_mc_0_input.png",
+        "option_image_b": "harsh/ChessBishop_2DRotation+90_34_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/DuckSide_2DRotation+90_35_test_0_input.png",
+        "option_image_a": "harsh/DuckSide_2DRotation+90_35_test_mc_0_input.png",
+        "option_image_b": "harsh/DuckSide_2DRotation+90_35_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Boat_2DRotation+90_36_test_0_input.png",
+        "option_image_a": "harsh/Boat_2DRotation+90_36_test_mc_0_input.png",
+        "option_image_b": "harsh/Boat_2DRotation+90_36_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Camel_2DRotation+90_37_test_0_input.png",
+        "option_image_a": "harsh/Camel_2DRotation+90_37_test_mc_0_input.png",
+        "option_image_b": "harsh/Camel_2DRotation+90_37_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/clock_2DRotation+90_38_test_0_input.png",
+        "option_image_a": "harsh/clock_2DRotation+90_38_test_mc_0_input.png",
+        "option_image_b": "harsh/clock_2DRotation+90_38_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/poodle_2DRotation+90_39_test_0_input.png",
+        "option_image_a": "harsh/poodle_2DRotation+90_39_test_mc_0_input.png",
+        "option_image_b": "harsh/poodle_2DRotation+90_39_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/airplane_2DRotation+90_40_test_0_input.png",
+        "option_image_a": "harsh/airplane_2DRotation+90_40_test_mc_0_input.png",
+        "option_image_b": "harsh/airplane_2DRotation+90_40_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/flowertree_2DRotation+90_41_test_0_input.png",
+        "option_image_a": "harsh/flowertree_2DRotation+90_41_test_mc_0_input.png",
+        "option_image_b": "harsh/flowertree_2DRotation+90_41_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/octopus_2DRotation+90_42_test_0_input.png",
+        "option_image_a": "harsh/octopus_2DRotation+90_42_test_mc_0_input.png",
+        "option_image_b": "harsh/octopus_2DRotation+90_42_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Blimp_2DRotation+90_43_test_0_input.png",
+        "option_image_a": "harsh/Blimp_2DRotation+90_43_test_mc_0_input.png",
+        "option_image_b": "harsh/Blimp_2DRotation+90_43_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/shark_2DRotation+90_44_test_0_input.png",
+        "option_image_a": "harsh/shark_2DRotation+90_44_test_mc_0_input.png",
+        "option_image_b": "harsh/shark_2DRotation+90_44_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/fries_2DRotation+90_45_test_0_input.png",
+        "option_image_a": "harsh/fries_2DRotation+90_45_test_mc_0_input.png",
+        "option_image_b": "harsh/fries_2DRotation+90_45_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/chairoffice_2DRotation+90_46_test_0_input.png",
+        "option_image_a": "harsh/chairoffice_2DRotation+90_46_test_mc_0_input.png",
+        "option_image_b": "harsh/chairoffice_2DRotation+90_46_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Luffy_2DRotation+90_47_test_0_input.png",
+        "option_image_a": "harsh/Luffy_2DRotation+90_47_test_mc_0_input.png",
+        "option_image_b": "harsh/Luffy_2DRotation+90_47_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/loaf_2DRotation+90_48_test_0_input.png",
+        "option_image_a": "harsh/loaf_2DRotation+90_48_test_mc_0_input.png",
+        "option_image_b": "harsh/loaf_2DRotation+90_48_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/dogtoy_2DRotation+90_49_test_0_input.png",
+        "option_image_a": "harsh/dogtoy_2DRotation+90_49_test_mc_0_input.png",
+        "option_image_b": "harsh/dogtoy_2DRotation+90_49_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/chickenracer_2DRotation+90_50_test_0_input.png",
+        "option_image_a": "harsh/chickenracer_2DRotation+90_50_test_mc_0_input.png",
+        "option_image_b": "harsh/chickenracer_2DRotation+90_50_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/car_2DRotation+90_51_test_0_input.png",
+        "option_image_a": "harsh/car_2DRotation+90_51_test_mc_0_input.png",
+        "option_image_b": "harsh/car_2DRotation+90_51_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/dinosaur_2DRotation+90_52_test_0_input.png",
+        "option_image_a": "harsh/dinosaur_2DRotation+90_52_test_mc_0_input.png",
+        "option_image_b": "harsh/dinosaur_2DRotation+90_52_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Cat_2DRotation+90_53_test_0_input.png",
+        "option_image_a": "harsh/Cat_2DRotation+90_53_test_mc_0_input.png",
+        "option_image_b": "harsh/Cat_2DRotation+90_53_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/croissant_2DRotation+90_54_test_0_input.png",
+        "option_image_a": "harsh/croissant_2DRotation+90_54_test_mc_0_input.png",
+        "option_image_b": "harsh/croissant_2DRotation+90_54_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/mug_2DRotation+90_55_test_0_input.png",
+        "option_image_a": "harsh/mug_2DRotation+90_55_test_mc_0_input.png",
+        "option_image_b": "harsh/mug_2DRotation+90_55_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/flower_2DRotation+90_56_test_0_input.png",
+        "option_image_a": "harsh/flower_2DRotation+90_56_test_mc_0_input.png",
+        "option_image_b": "harsh/flower_2DRotation+90_56_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/marigold_2DRotation+90_57_test_0_input.png",
+        "option_image_a": "harsh/marigold_2DRotation+90_57_test_mc_0_input.png",
+        "option_image_b": "harsh/marigold_2DRotation+90_57_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Monimop_2DRotation+90_58_test_0_input.png",
+        "option_image_a": "harsh/Monimop_2DRotation+90_58_test_mc_0_input.png",
+        "option_image_b": "harsh/Monimop_2DRotation+90_58_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Cactus_2DRotation+90_59_test_0_input.png",
+        "option_image_a": "harsh/Cactus_2DRotation+90_59_test_mc_0_input.png",
+        "option_image_b": "harsh/Cactus_2DRotation+90_59_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Bass_2DRotation+90_60_test_0_input.png",
+        "option_image_a": "harsh/Bass_2DRotation+90_60_test_mc_0_input.png",
+        "option_image_b": "harsh/Bass_2DRotation+90_60_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/pig_2DRotation+90_61_test_0_input.png",
+        "option_image_a": "harsh/pig_2DRotation+90_61_test_mc_0_input.png",
+        "option_image_b": "harsh/pig_2DRotation+90_61_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/icecreamcone_2DRotation+90_62_test_0_input.png",
+        "option_image_a": "harsh/icecreamcone_2DRotation+90_62_test_mc_0_input.png",
+        "option_image_b": "harsh/icecreamcone_2DRotation+90_62_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/gingerbreadman_2DRotation+90_63_test_0_input.png",
+        "option_image_a": "harsh/gingerbreadman_2DRotation+90_63_test_mc_0_input.png",
+        "option_image_b": "harsh/gingerbreadman_2DRotation+90_63_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/bunny_2DRotation+90_64_test_0_input.png",
+        "option_image_a": "harsh/bunny_2DRotation+90_64_test_mc_0_input.png",
+        "option_image_b": "harsh/bunny_2DRotation+90_64_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/cap_2DRotation+90_65_test_0_input.png",
+        "option_image_a": "harsh/cap_2DRotation+90_65_test_mc_0_input.png",
+        "option_image_b": "harsh/cap_2DRotation+90_65_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/butterfly_2DRotation+90_66_test_0_input.png",
+        "option_image_a": "harsh/butterfly_2DRotation+90_66_test_mc_0_input.png",
+        "option_image_b": "harsh/butterfly_2DRotation+90_66_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Radio_2DRotation+90_67_test_0_input.png",
+        "option_image_a": "harsh/Radio_2DRotation+90_67_test_mc_0_input.png",
+        "option_image_b": "harsh/Radio_2DRotation+90_67_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/sofa1_2DRotation+90_68_test_0_input.png",
+        "option_image_a": "harsh/sofa1_2DRotation+90_68_test_mc_0_input.png",
+        "option_image_b": "harsh/sofa1_2DRotation+90_68_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Stroller_2DRotation+90_69_test_0_input.png",
+        "option_image_a": "harsh/Stroller_2DRotation+90_69_test_mc_0_input.png",
+        "option_image_b": "harsh/Stroller_2DRotation+90_69_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Plane_2DRotation+90_70_test_0_input.png",
+        "option_image_a": "harsh/Plane_2DRotation+90_70_test_mc_0_input.png",
+        "option_image_b": "harsh/Plane_2DRotation+90_70_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/icecream_2DRotation+90_71_test_0_input.png",
+        "option_image_a": "harsh/icecream_2DRotation+90_71_test_mc_0_input.png",
+        "option_image_b": "harsh/icecream_2DRotation+90_71_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/guitar_2DRotation+90_72_test_0_input.png",
+        "option_image_a": "harsh/guitar_2DRotation+90_72_test_mc_0_input.png",
+        "option_image_b": "harsh/guitar_2DRotation+90_72_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/motorcycle_2DRotation+90_73_test_0_input.png",
+        "option_image_a": "harsh/motorcycle_2DRotation+90_73_test_mc_0_input.png",
+        "option_image_b": "harsh/motorcycle_2DRotation+90_73_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/hat_2DRotation+90_74_test_0_input.png",
+        "option_image_a": "harsh/hat_2DRotation+90_74_test_mc_0_input.png",
+        "option_image_b": "harsh/hat_2DRotation+90_74_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/LegoBicycle_2DRotation+90_75_test_0_input.png",
+        "option_image_a": "harsh/LegoBicycle_2DRotation+90_75_test_mc_0_input.png",
+        "option_image_b": "harsh/LegoBicycle_2DRotation+90_75_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Nerfgun_2DRotation+90_76_test_0_input.png",
+        "option_image_a": "harsh/Nerfgun_2DRotation+90_76_test_mc_0_input.png",
+        "option_image_b": "harsh/Nerfgun_2DRotation+90_76_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/doll_2DRotation+90_77_test_0_input.png",
+        "option_image_a": "harsh/doll_2DRotation+90_77_test_mc_0_input.png",
+        "option_image_b": "harsh/doll_2DRotation+90_77_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/cow_2DRotation+90_78_test_0_input.png",
+        "option_image_a": "harsh/cow_2DRotation+90_78_test_mc_0_input.png",
+        "option_image_b": "harsh/cow_2DRotation+90_78_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/chicken_2DRotation+90_79_test_0_input.png",
+        "option_image_a": "harsh/chicken_2DRotation+90_79_test_mc_0_input.png",
+        "option_image_b": "harsh/chicken_2DRotation+90_79_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/NoiseToy_2DRotation+90_80_test_0_input.png",
+        "option_image_a": "harsh/NoiseToy_2DRotation+90_80_test_mc_0_input.png",
+        "option_image_b": "harsh/NoiseToy_2DRotation+90_80_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/lion_2DRotation+90_81_test_0_input.png",
+        "option_image_a": "harsh/lion_2DRotation+90_81_test_mc_0_input.png",
+        "option_image_b": "harsh/lion_2DRotation+90_81_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/cakelayered_2DRotation+90_82_test_0_input.png",
+        "option_image_a": "harsh/cakelayered_2DRotation+90_82_test_mc_0_input.png",
+        "option_image_b": "harsh/cakelayered_2DRotation+90_82_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/mouse_2DRotation+90_83_test_0_input.png",
+        "option_image_a": "harsh/mouse_2DRotation+90_83_test_mc_0_input.png",
+        "option_image_b": "harsh/mouse_2DRotation+90_83_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/closet_2DRotation+90_84_test_0_input.png",
+        "option_image_a": "harsh/closet_2DRotation+90_84_test_mc_0_input.png",
+        "option_image_b": "harsh/closet_2DRotation+90_84_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/giraffe_2DRotation+90_85_test_0_input.png",
+        "option_image_a": "harsh/giraffe_2DRotation+90_85_test_mc_0_input.png",
+        "option_image_b": "harsh/giraffe_2DRotation+90_85_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/ladder_2DRotation+90_86_test_0_input.png",
+        "option_image_a": "harsh/ladder_2DRotation+90_86_test_mc_0_input.png",
+        "option_image_b": "harsh/ladder_2DRotation+90_86_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/lunchbag_2DRotation+90_87_test_0_input.png",
+        "option_image_a": "harsh/lunchbag_2DRotation+90_87_test_mc_0_input.png",
+        "option_image_b": "harsh/lunchbag_2DRotation+90_87_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Elephant_2DRotation+90_88_test_0_input.png",
+        "option_image_a": "harsh/Elephant_2DRotation+90_88_test_mc_0_input.png",
+        "option_image_b": "harsh/Elephant_2DRotation+90_88_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/PirateShip_2DRotation+90_89_test_0_input.png",
+        "option_image_a": "harsh/PirateShip_2DRotation+90_89_test_mc_0_input.png",
+        "option_image_b": "harsh/PirateShip_2DRotation+90_89_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Drill_2DRotation+90_90_test_0_input.png",
+        "option_image_a": "harsh/Drill_2DRotation+90_90_test_mc_0_input.png",
+        "option_image_b": "harsh/Drill_2DRotation+90_90_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/clownfish_2DRotation+90_91_test_0_input.png",
+        "option_image_a": "harsh/clownfish_2DRotation+90_91_test_mc_0_input.png",
+        "option_image_b": "harsh/clownfish_2DRotation+90_91_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/frog_2DRotation+90_92_test_0_input.png",
+        "option_image_a": "harsh/frog_2DRotation+90_92_test_mc_0_input.png",
+        "option_image_b": "harsh/frog_2DRotation+90_92_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/crabhermit_2DRotation+90_93_test_0_input.png",
+        "option_image_a": "harsh/crabhermit_2DRotation+90_93_test_mc_0_input.png",
+        "option_image_b": "harsh/crabhermit_2DRotation+90_93_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/kayak_2DRotation+90_94_test_0_input.png",
+        "option_image_a": "harsh/kayak_2DRotation+90_94_test_mc_0_input.png",
+        "option_image_b": "harsh/kayak_2DRotation+90_94_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/piano_2DRotation+90_95_test_0_input.png",
+        "option_image_a": "harsh/piano_2DRotation+90_95_test_mc_0_input.png",
+        "option_image_b": "harsh/piano_2DRotation+90_95_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/snake1_2DRotation+90_96_test_0_input.png",
+        "option_image_a": "harsh/snake1_2DRotation+90_96_test_mc_0_input.png",
+        "option_image_b": "harsh/snake1_2DRotation+90_96_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/fox_2DRotation+90_97_test_0_input.png",
+        "option_image_a": "harsh/fox_2DRotation+90_97_test_mc_0_input.png",
+        "option_image_b": "harsh/fox_2DRotation+90_97_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/fish_2DRotation+90_98_test_0_input.png",
+        "option_image_a": "harsh/fish_2DRotation+90_98_test_mc_0_input.png",
+        "option_image_b": "harsh/fish_2DRotation+90_98_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/cake_2DRotation+90_99_test_0_input.png",
+        "option_image_a": "harsh/cake_2DRotation+90_99_test_mc_0_input.png",
+        "option_image_b": "harsh/cake_2DRotation+90_99_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by +90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/SodaCan_2DRotation180_100_test_0_input.png",
+        "option_image_a": "harsh/SodaCan_2DRotation180_100_test_mc_0_input.png",
+        "option_image_b": "harsh/SodaCan_2DRotation180_100_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Olaf_2DRotation180_101_test_0_input.png",
+        "option_image_a": "harsh/Olaf_2DRotation180_101_test_mc_0_input.png",
+        "option_image_b": "harsh/Olaf_2DRotation180_101_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/lizard_2DRotation180_102_test_0_input.png",
+        "option_image_a": "harsh/lizard_2DRotation180_102_test_mc_0_input.png",
+        "option_image_b": "harsh/lizard_2DRotation180_102_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/rose_2DRotation180_103_test_0_input.png",
+        "option_image_a": "harsh/rose_2DRotation180_103_test_mc_0_input.png",
+        "option_image_b": "harsh/rose_2DRotation180_103_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/snake2_2DRotation180_104_test_0_input.png",
+        "option_image_a": "harsh/snake2_2DRotation180_104_test_mc_0_input.png",
+        "option_image_b": "harsh/snake2_2DRotation180_104_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/sofa2_2DRotation180_105_test_0_input.png",
+        "option_image_a": "harsh/sofa2_2DRotation180_105_test_mc_0_input.png",
+        "option_image_b": "harsh/sofa2_2DRotation180_105_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Barn_2DRotation180_106_test_0_input.png",
+        "option_image_a": "harsh/Barn_2DRotation180_106_test_mc_0_input.png",
+        "option_image_b": "harsh/Barn_2DRotation180_106_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/pizza_2DRotation180_107_test_0_input.png",
+        "option_image_a": "harsh/pizza_2DRotation180_107_test_mc_0_input.png",
+        "option_image_b": "harsh/pizza_2DRotation180_107_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/sandwich_2DRotation180_108_test_0_input.png",
+        "option_image_a": "harsh/sandwich_2DRotation180_108_test_mc_0_input.png",
+        "option_image_b": "harsh/sandwich_2DRotation180_108_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/spiderman_2DRotation180_109_test_0_input.png",
+        "option_image_a": "harsh/spiderman_2DRotation180_109_test_mc_0_input.png",
+        "option_image_b": "harsh/spiderman_2DRotation180_109_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/horse_2DRotation180_110_test_0_input.png",
+        "option_image_a": "harsh/horse_2DRotation180_110_test_mc_0_input.png",
+        "option_image_b": "harsh/horse_2DRotation180_110_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Knight_2DRotation180_111_test_0_input.png",
+        "option_image_a": "harsh/Knight_2DRotation180_111_test_mc_0_input.png",
+        "option_image_b": "harsh/Knight_2DRotation180_111_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Motorbike_2DRotation180_112_test_0_input.png",
+        "option_image_a": "harsh/Motorbike_2DRotation180_112_test_mc_0_input.png",
+        "option_image_b": "harsh/Motorbike_2DRotation180_112_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/sofaLshaped_2DRotation180_113_test_0_input.png",
+        "option_image_a": "harsh/sofaLshaped_2DRotation180_113_test_mc_0_input.png",
+        "option_image_b": "harsh/sofaLshaped_2DRotation180_113_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Sonic_2DRotation180_114_test_0_input.png",
+        "option_image_a": "harsh/Sonic_2DRotation180_114_test_mc_0_input.png",
+        "option_image_b": "harsh/Sonic_2DRotation180_114_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/sink_2DRotation180_115_test_0_input.png",
+        "option_image_a": "harsh/sink_2DRotation180_115_test_mc_0_input.png",
+        "option_image_b": "harsh/sink_2DRotation180_115_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/shoe2_2DRotation180_116_test_0_input.png",
+        "option_image_a": "harsh/shoe2_2DRotation180_116_test_mc_0_input.png",
+        "option_image_b": "harsh/shoe2_2DRotation180_116_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/dog_2DRotation180_117_test_0_input.png",
+        "option_image_a": "harsh/dog_2DRotation180_117_test_mc_0_input.png",
+        "option_image_b": "harsh/dog_2DRotation180_117_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Birdie_2DRotation180_118_test_0_input.png",
+        "option_image_a": "harsh/Birdie_2DRotation180_118_test_mc_0_input.png",
+        "option_image_b": "harsh/Birdie_2DRotation180_118_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/fridge_2DRotation180_119_test_0_input.png",
+        "option_image_a": "harsh/fridge_2DRotation180_119_test_mc_0_input.png",
+        "option_image_b": "harsh/fridge_2DRotation180_119_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/chairwood_2DRotation180_120_test_0_input.png",
+        "option_image_a": "harsh/chairwood_2DRotation180_120_test_mc_0_input.png",
+        "option_image_b": "harsh/chairwood_2DRotation180_120_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Submarine_2DRotation180_121_test_0_input.png",
+        "option_image_a": "harsh/Submarine_2DRotation180_121_test_mc_0_input.png",
+        "option_image_b": "harsh/Submarine_2DRotation180_121_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/PowerpuffGirl_2DRotation180_122_test_0_input.png",
+        "option_image_a": "harsh/PowerpuffGirl_2DRotation180_122_test_mc_0_input.png",
+        "option_image_b": "harsh/PowerpuffGirl_2DRotation180_122_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/FilmClapper_2DRotation180_123_test_0_input.png",
+        "option_image_a": "harsh/FilmClapper_2DRotation180_123_test_mc_0_input.png",
+        "option_image_b": "harsh/FilmClapper_2DRotation180_123_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/coffee_2DRotation180_124_test_0_input.png",
+        "option_image_a": "harsh/coffee_2DRotation180_124_test_mc_0_input.png",
+        "option_image_b": "harsh/coffee_2DRotation180_124_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/sheep_2DRotation180_125_test_0_input.png",
+        "option_image_a": "harsh/sheep_2DRotation180_125_test_mc_0_input.png",
+        "option_image_b": "harsh/sheep_2DRotation180_125_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/squirrel_2DRotation180_126_test_0_input.png",
+        "option_image_a": "harsh/squirrel_2DRotation180_126_test_mc_0_input.png",
+        "option_image_b": "harsh/squirrel_2DRotation180_126_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/cookiefortune_2DRotation180_127_test_0_input.png",
+        "option_image_a": "harsh/cookiefortune_2DRotation180_127_test_mc_0_input.png",
+        "option_image_b": "harsh/cookiefortune_2DRotation180_127_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/fan_2DRotation180_128_test_0_input.png",
+        "option_image_a": "harsh/fan_2DRotation180_128_test_mc_0_input.png",
+        "option_image_b": "harsh/fan_2DRotation180_128_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/grapes_2DRotation180_129_test_0_input.png",
+        "option_image_a": "harsh/grapes_2DRotation180_129_test_mc_0_input.png",
+        "option_image_b": "harsh/grapes_2DRotation180_129_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/penguin_2DRotation180_130_test_0_input.png",
+        "option_image_a": "harsh/penguin_2DRotation180_130_test_mc_0_input.png",
+        "option_image_b": "harsh/penguin_2DRotation180_130_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/milkcat_2DRotation180_131_test_0_input.png",
+        "option_image_a": "harsh/milkcat_2DRotation180_131_test_mc_0_input.png",
+        "option_image_b": "harsh/milkcat_2DRotation180_131_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/deer_2DRotation180_132_test_0_input.png",
+        "option_image_a": "harsh/deer_2DRotation180_132_test_mc_0_input.png",
+        "option_image_b": "harsh/deer_2DRotation180_132_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/shoe1_2DRotation180_133_test_0_input.png",
+        "option_image_a": "harsh/shoe1_2DRotation180_133_test_mc_0_input.png",
+        "option_image_b": "harsh/shoe1_2DRotation180_133_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/ChessBishop_2DRotation180_134_test_0_input.png",
+        "option_image_a": "harsh/ChessBishop_2DRotation180_134_test_mc_0_input.png",
+        "option_image_b": "harsh/ChessBishop_2DRotation180_134_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/DuckSide_2DRotation180_135_test_0_input.png",
+        "option_image_a": "harsh/DuckSide_2DRotation180_135_test_mc_0_input.png",
+        "option_image_b": "harsh/DuckSide_2DRotation180_135_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Boat_2DRotation180_136_test_0_input.png",
+        "option_image_a": "harsh/Boat_2DRotation180_136_test_mc_0_input.png",
+        "option_image_b": "harsh/Boat_2DRotation180_136_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Camel_2DRotation180_137_test_0_input.png",
+        "option_image_a": "harsh/Camel_2DRotation180_137_test_mc_0_input.png",
+        "option_image_b": "harsh/Camel_2DRotation180_137_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/clock_2DRotation180_138_test_0_input.png",
+        "option_image_a": "harsh/clock_2DRotation180_138_test_mc_0_input.png",
+        "option_image_b": "harsh/clock_2DRotation180_138_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/poodle_2DRotation180_139_test_0_input.png",
+        "option_image_a": "harsh/poodle_2DRotation180_139_test_mc_0_input.png",
+        "option_image_b": "harsh/poodle_2DRotation180_139_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/airplane_2DRotation180_140_test_0_input.png",
+        "option_image_a": "harsh/airplane_2DRotation180_140_test_mc_0_input.png",
+        "option_image_b": "harsh/airplane_2DRotation180_140_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/flowertree_2DRotation180_141_test_0_input.png",
+        "option_image_a": "harsh/flowertree_2DRotation180_141_test_mc_0_input.png",
+        "option_image_b": "harsh/flowertree_2DRotation180_141_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/octopus_2DRotation180_142_test_0_input.png",
+        "option_image_a": "harsh/octopus_2DRotation180_142_test_mc_0_input.png",
+        "option_image_b": "harsh/octopus_2DRotation180_142_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Blimp_2DRotation180_143_test_0_input.png",
+        "option_image_a": "harsh/Blimp_2DRotation180_143_test_mc_0_input.png",
+        "option_image_b": "harsh/Blimp_2DRotation180_143_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/shark_2DRotation180_144_test_0_input.png",
+        "option_image_a": "harsh/shark_2DRotation180_144_test_mc_0_input.png",
+        "option_image_b": "harsh/shark_2DRotation180_144_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/fries_2DRotation180_145_test_0_input.png",
+        "option_image_a": "harsh/fries_2DRotation180_145_test_mc_0_input.png",
+        "option_image_b": "harsh/fries_2DRotation180_145_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/chairoffice_2DRotation180_146_test_0_input.png",
+        "option_image_a": "harsh/chairoffice_2DRotation180_146_test_mc_0_input.png",
+        "option_image_b": "harsh/chairoffice_2DRotation180_146_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Luffy_2DRotation180_147_test_0_input.png",
+        "option_image_a": "harsh/Luffy_2DRotation180_147_test_mc_0_input.png",
+        "option_image_b": "harsh/Luffy_2DRotation180_147_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/loaf_2DRotation180_148_test_0_input.png",
+        "option_image_a": "harsh/loaf_2DRotation180_148_test_mc_0_input.png",
+        "option_image_b": "harsh/loaf_2DRotation180_148_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/dogtoy_2DRotation180_149_test_0_input.png",
+        "option_image_a": "harsh/dogtoy_2DRotation180_149_test_mc_0_input.png",
+        "option_image_b": "harsh/dogtoy_2DRotation180_149_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/chickenracer_2DRotation180_150_test_0_input.png",
+        "option_image_a": "harsh/chickenracer_2DRotation180_150_test_mc_0_input.png",
+        "option_image_b": "harsh/chickenracer_2DRotation180_150_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/car_2DRotation180_151_test_0_input.png",
+        "option_image_a": "harsh/car_2DRotation180_151_test_mc_0_input.png",
+        "option_image_b": "harsh/car_2DRotation180_151_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/dinosaur_2DRotation180_152_test_0_input.png",
+        "option_image_a": "harsh/dinosaur_2DRotation180_152_test_mc_0_input.png",
+        "option_image_b": "harsh/dinosaur_2DRotation180_152_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Cat_2DRotation180_153_test_0_input.png",
+        "option_image_a": "harsh/Cat_2DRotation180_153_test_mc_0_input.png",
+        "option_image_b": "harsh/Cat_2DRotation180_153_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/croissant_2DRotation180_154_test_0_input.png",
+        "option_image_a": "harsh/croissant_2DRotation180_154_test_mc_0_input.png",
+        "option_image_b": "harsh/croissant_2DRotation180_154_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/mug_2DRotation180_155_test_0_input.png",
+        "option_image_a": "harsh/mug_2DRotation180_155_test_mc_0_input.png",
+        "option_image_b": "harsh/mug_2DRotation180_155_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/flower_2DRotation180_156_test_0_input.png",
+        "option_image_a": "harsh/flower_2DRotation180_156_test_mc_0_input.png",
+        "option_image_b": "harsh/flower_2DRotation180_156_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/marigold_2DRotation180_157_test_0_input.png",
+        "option_image_a": "harsh/marigold_2DRotation180_157_test_mc_0_input.png",
+        "option_image_b": "harsh/marigold_2DRotation180_157_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Monimop_2DRotation180_158_test_0_input.png",
+        "option_image_a": "harsh/Monimop_2DRotation180_158_test_mc_0_input.png",
+        "option_image_b": "harsh/Monimop_2DRotation180_158_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Cactus_2DRotation180_159_test_0_input.png",
+        "option_image_a": "harsh/Cactus_2DRotation180_159_test_mc_0_input.png",
+        "option_image_b": "harsh/Cactus_2DRotation180_159_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Bass_2DRotation180_160_test_0_input.png",
+        "option_image_a": "harsh/Bass_2DRotation180_160_test_mc_0_input.png",
+        "option_image_b": "harsh/Bass_2DRotation180_160_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/pig_2DRotation180_161_test_0_input.png",
+        "option_image_a": "harsh/pig_2DRotation180_161_test_mc_0_input.png",
+        "option_image_b": "harsh/pig_2DRotation180_161_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/icecreamcone_2DRotation180_162_test_0_input.png",
+        "option_image_a": "harsh/icecreamcone_2DRotation180_162_test_mc_0_input.png",
+        "option_image_b": "harsh/icecreamcone_2DRotation180_162_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/gingerbreadman_2DRotation180_163_test_0_input.png",
+        "option_image_a": "harsh/gingerbreadman_2DRotation180_163_test_mc_0_input.png",
+        "option_image_b": "harsh/gingerbreadman_2DRotation180_163_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/bunny_2DRotation180_164_test_0_input.png",
+        "option_image_a": "harsh/bunny_2DRotation180_164_test_mc_0_input.png",
+        "option_image_b": "harsh/bunny_2DRotation180_164_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/cap_2DRotation180_165_test_0_input.png",
+        "option_image_a": "harsh/cap_2DRotation180_165_test_mc_0_input.png",
+        "option_image_b": "harsh/cap_2DRotation180_165_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/butterfly_2DRotation180_166_test_0_input.png",
+        "option_image_a": "harsh/butterfly_2DRotation180_166_test_mc_0_input.png",
+        "option_image_b": "harsh/butterfly_2DRotation180_166_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Radio_2DRotation180_167_test_0_input.png",
+        "option_image_a": "harsh/Radio_2DRotation180_167_test_mc_0_input.png",
+        "option_image_b": "harsh/Radio_2DRotation180_167_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/sofa1_2DRotation180_168_test_0_input.png",
+        "option_image_a": "harsh/sofa1_2DRotation180_168_test_mc_0_input.png",
+        "option_image_b": "harsh/sofa1_2DRotation180_168_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Stroller_2DRotation180_169_test_0_input.png",
+        "option_image_a": "harsh/Stroller_2DRotation180_169_test_mc_0_input.png",
+        "option_image_b": "harsh/Stroller_2DRotation180_169_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Plane_2DRotation180_170_test_0_input.png",
+        "option_image_a": "harsh/Plane_2DRotation180_170_test_mc_0_input.png",
+        "option_image_b": "harsh/Plane_2DRotation180_170_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/icecream_2DRotation180_171_test_0_input.png",
+        "option_image_a": "harsh/icecream_2DRotation180_171_test_mc_0_input.png",
+        "option_image_b": "harsh/icecream_2DRotation180_171_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/guitar_2DRotation180_172_test_0_input.png",
+        "option_image_a": "harsh/guitar_2DRotation180_172_test_mc_0_input.png",
+        "option_image_b": "harsh/guitar_2DRotation180_172_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/motorcycle_2DRotation180_173_test_0_input.png",
+        "option_image_a": "harsh/motorcycle_2DRotation180_173_test_mc_0_input.png",
+        "option_image_b": "harsh/motorcycle_2DRotation180_173_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/hat_2DRotation180_174_test_0_input.png",
+        "option_image_a": "harsh/hat_2DRotation180_174_test_mc_0_input.png",
+        "option_image_b": "harsh/hat_2DRotation180_174_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/LegoBicycle_2DRotation180_175_test_0_input.png",
+        "option_image_a": "harsh/LegoBicycle_2DRotation180_175_test_mc_0_input.png",
+        "option_image_b": "harsh/LegoBicycle_2DRotation180_175_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Nerfgun_2DRotation180_176_test_0_input.png",
+        "option_image_a": "harsh/Nerfgun_2DRotation180_176_test_mc_0_input.png",
+        "option_image_b": "harsh/Nerfgun_2DRotation180_176_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/doll_2DRotation180_177_test_0_input.png",
+        "option_image_a": "harsh/doll_2DRotation180_177_test_mc_0_input.png",
+        "option_image_b": "harsh/doll_2DRotation180_177_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/cow_2DRotation180_178_test_0_input.png",
+        "option_image_a": "harsh/cow_2DRotation180_178_test_mc_0_input.png",
+        "option_image_b": "harsh/cow_2DRotation180_178_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/chicken_2DRotation180_179_test_0_input.png",
+        "option_image_a": "harsh/chicken_2DRotation180_179_test_mc_0_input.png",
+        "option_image_b": "harsh/chicken_2DRotation180_179_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/NoiseToy_2DRotation180_180_test_0_input.png",
+        "option_image_a": "harsh/NoiseToy_2DRotation180_180_test_mc_0_input.png",
+        "option_image_b": "harsh/NoiseToy_2DRotation180_180_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/lion_2DRotation180_181_test_0_input.png",
+        "option_image_a": "harsh/lion_2DRotation180_181_test_mc_0_input.png",
+        "option_image_b": "harsh/lion_2DRotation180_181_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/cakelayered_2DRotation180_182_test_0_input.png",
+        "option_image_a": "harsh/cakelayered_2DRotation180_182_test_mc_0_input.png",
+        "option_image_b": "harsh/cakelayered_2DRotation180_182_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/mouse_2DRotation180_183_test_0_input.png",
+        "option_image_a": "harsh/mouse_2DRotation180_183_test_mc_0_input.png",
+        "option_image_b": "harsh/mouse_2DRotation180_183_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/closet_2DRotation180_184_test_0_input.png",
+        "option_image_a": "harsh/closet_2DRotation180_184_test_mc_0_input.png",
+        "option_image_b": "harsh/closet_2DRotation180_184_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/giraffe_2DRotation180_185_test_0_input.png",
+        "option_image_a": "harsh/giraffe_2DRotation180_185_test_mc_0_input.png",
+        "option_image_b": "harsh/giraffe_2DRotation180_185_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/ladder_2DRotation180_186_test_0_input.png",
+        "option_image_a": "harsh/ladder_2DRotation180_186_test_mc_0_input.png",
+        "option_image_b": "harsh/ladder_2DRotation180_186_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/lunchbag_2DRotation180_187_test_0_input.png",
+        "option_image_a": "harsh/lunchbag_2DRotation180_187_test_mc_0_input.png",
+        "option_image_b": "harsh/lunchbag_2DRotation180_187_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Elephant_2DRotation180_188_test_0_input.png",
+        "option_image_a": "harsh/Elephant_2DRotation180_188_test_mc_0_input.png",
+        "option_image_b": "harsh/Elephant_2DRotation180_188_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/PirateShip_2DRotation180_189_test_0_input.png",
+        "option_image_a": "harsh/PirateShip_2DRotation180_189_test_mc_0_input.png",
+        "option_image_b": "harsh/PirateShip_2DRotation180_189_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Drill_2DRotation180_190_test_0_input.png",
+        "option_image_a": "harsh/Drill_2DRotation180_190_test_mc_0_input.png",
+        "option_image_b": "harsh/Drill_2DRotation180_190_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/clownfish_2DRotation180_191_test_0_input.png",
+        "option_image_a": "harsh/clownfish_2DRotation180_191_test_mc_0_input.png",
+        "option_image_b": "harsh/clownfish_2DRotation180_191_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/frog_2DRotation180_192_test_0_input.png",
+        "option_image_a": "harsh/frog_2DRotation180_192_test_mc_0_input.png",
+        "option_image_b": "harsh/frog_2DRotation180_192_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/crabhermit_2DRotation180_193_test_0_input.png",
+        "option_image_a": "harsh/crabhermit_2DRotation180_193_test_mc_0_input.png",
+        "option_image_b": "harsh/crabhermit_2DRotation180_193_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/kayak_2DRotation180_194_test_0_input.png",
+        "option_image_a": "harsh/kayak_2DRotation180_194_test_mc_0_input.png",
+        "option_image_b": "harsh/kayak_2DRotation180_194_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/piano_2DRotation180_195_test_0_input.png",
+        "option_image_a": "harsh/piano_2DRotation180_195_test_mc_0_input.png",
+        "option_image_b": "harsh/piano_2DRotation180_195_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/snake1_2DRotation180_196_test_0_input.png",
+        "option_image_a": "harsh/snake1_2DRotation180_196_test_mc_0_input.png",
+        "option_image_b": "harsh/snake1_2DRotation180_196_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/fox_2DRotation180_197_test_0_input.png",
+        "option_image_a": "harsh/fox_2DRotation180_197_test_mc_0_input.png",
+        "option_image_b": "harsh/fox_2DRotation180_197_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/fish_2DRotation180_198_test_0_input.png",
+        "option_image_a": "harsh/fish_2DRotation180_198_test_mc_0_input.png",
+        "option_image_b": "harsh/fish_2DRotation180_198_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/cake_2DRotation180_199_test_0_input.png",
+        "option_image_a": "harsh/cake_2DRotation180_199_test_mc_0_input.png",
+        "option_image_b": "harsh/cake_2DRotation180_199_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by 180 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/SodaCan_2DRotation-90_200_test_0_input.png",
+        "option_image_a": "harsh/SodaCan_2DRotation-90_200_test_mc_0_input.png",
+        "option_image_b": "harsh/SodaCan_2DRotation-90_200_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Olaf_2DRotation-90_201_test_0_input.png",
+        "option_image_a": "harsh/Olaf_2DRotation-90_201_test_mc_0_input.png",
+        "option_image_b": "harsh/Olaf_2DRotation-90_201_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/lizard_2DRotation-90_202_test_0_input.png",
+        "option_image_a": "harsh/lizard_2DRotation-90_202_test_mc_0_input.png",
+        "option_image_b": "harsh/lizard_2DRotation-90_202_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/rose_2DRotation-90_203_test_0_input.png",
+        "option_image_a": "harsh/rose_2DRotation-90_203_test_mc_0_input.png",
+        "option_image_b": "harsh/rose_2DRotation-90_203_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/snake2_2DRotation-90_204_test_0_input.png",
+        "option_image_a": "harsh/snake2_2DRotation-90_204_test_mc_0_input.png",
+        "option_image_b": "harsh/snake2_2DRotation-90_204_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/sofa2_2DRotation-90_205_test_0_input.png",
+        "option_image_a": "harsh/sofa2_2DRotation-90_205_test_mc_0_input.png",
+        "option_image_b": "harsh/sofa2_2DRotation-90_205_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Barn_2DRotation-90_206_test_0_input.png",
+        "option_image_a": "harsh/Barn_2DRotation-90_206_test_mc_0_input.png",
+        "option_image_b": "harsh/Barn_2DRotation-90_206_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/pizza_2DRotation-90_207_test_0_input.png",
+        "option_image_a": "harsh/pizza_2DRotation-90_207_test_mc_0_input.png",
+        "option_image_b": "harsh/pizza_2DRotation-90_207_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/sandwich_2DRotation-90_208_test_0_input.png",
+        "option_image_a": "harsh/sandwich_2DRotation-90_208_test_mc_0_input.png",
+        "option_image_b": "harsh/sandwich_2DRotation-90_208_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/spiderman_2DRotation-90_209_test_0_input.png",
+        "option_image_a": "harsh/spiderman_2DRotation-90_209_test_mc_0_input.png",
+        "option_image_b": "harsh/spiderman_2DRotation-90_209_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/horse_2DRotation-90_210_test_0_input.png",
+        "option_image_a": "harsh/horse_2DRotation-90_210_test_mc_0_input.png",
+        "option_image_b": "harsh/horse_2DRotation-90_210_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Knight_2DRotation-90_211_test_0_input.png",
+        "option_image_a": "harsh/Knight_2DRotation-90_211_test_mc_0_input.png",
+        "option_image_b": "harsh/Knight_2DRotation-90_211_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Motorbike_2DRotation-90_212_test_0_input.png",
+        "option_image_a": "harsh/Motorbike_2DRotation-90_212_test_mc_0_input.png",
+        "option_image_b": "harsh/Motorbike_2DRotation-90_212_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/sofaLshaped_2DRotation-90_213_test_0_input.png",
+        "option_image_a": "harsh/sofaLshaped_2DRotation-90_213_test_mc_0_input.png",
+        "option_image_b": "harsh/sofaLshaped_2DRotation-90_213_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Sonic_2DRotation-90_214_test_0_input.png",
+        "option_image_a": "harsh/Sonic_2DRotation-90_214_test_mc_0_input.png",
+        "option_image_b": "harsh/Sonic_2DRotation-90_214_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/sink_2DRotation-90_215_test_0_input.png",
+        "option_image_a": "harsh/sink_2DRotation-90_215_test_mc_0_input.png",
+        "option_image_b": "harsh/sink_2DRotation-90_215_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/shoe2_2DRotation-90_216_test_0_input.png",
+        "option_image_a": "harsh/shoe2_2DRotation-90_216_test_mc_0_input.png",
+        "option_image_b": "harsh/shoe2_2DRotation-90_216_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/dog_2DRotation-90_217_test_0_input.png",
+        "option_image_a": "harsh/dog_2DRotation-90_217_test_mc_0_input.png",
+        "option_image_b": "harsh/dog_2DRotation-90_217_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Birdie_2DRotation-90_218_test_0_input.png",
+        "option_image_a": "harsh/Birdie_2DRotation-90_218_test_mc_0_input.png",
+        "option_image_b": "harsh/Birdie_2DRotation-90_218_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/fridge_2DRotation-90_219_test_0_input.png",
+        "option_image_a": "harsh/fridge_2DRotation-90_219_test_mc_0_input.png",
+        "option_image_b": "harsh/fridge_2DRotation-90_219_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/chairwood_2DRotation-90_220_test_0_input.png",
+        "option_image_a": "harsh/chairwood_2DRotation-90_220_test_mc_0_input.png",
+        "option_image_b": "harsh/chairwood_2DRotation-90_220_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Submarine_2DRotation-90_221_test_0_input.png",
+        "option_image_a": "harsh/Submarine_2DRotation-90_221_test_mc_0_input.png",
+        "option_image_b": "harsh/Submarine_2DRotation-90_221_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/PowerpuffGirl_2DRotation-90_222_test_0_input.png",
+        "option_image_a": "harsh/PowerpuffGirl_2DRotation-90_222_test_mc_0_input.png",
+        "option_image_b": "harsh/PowerpuffGirl_2DRotation-90_222_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/FilmClapper_2DRotation-90_223_test_0_input.png",
+        "option_image_a": "harsh/FilmClapper_2DRotation-90_223_test_mc_0_input.png",
+        "option_image_b": "harsh/FilmClapper_2DRotation-90_223_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/coffee_2DRotation-90_224_test_0_input.png",
+        "option_image_a": "harsh/coffee_2DRotation-90_224_test_mc_0_input.png",
+        "option_image_b": "harsh/coffee_2DRotation-90_224_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/sheep_2DRotation-90_225_test_0_input.png",
+        "option_image_a": "harsh/sheep_2DRotation-90_225_test_mc_0_input.png",
+        "option_image_b": "harsh/sheep_2DRotation-90_225_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/squirrel_2DRotation-90_226_test_0_input.png",
+        "option_image_a": "harsh/squirrel_2DRotation-90_226_test_mc_0_input.png",
+        "option_image_b": "harsh/squirrel_2DRotation-90_226_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/cookiefortune_2DRotation-90_227_test_0_input.png",
+        "option_image_a": "harsh/cookiefortune_2DRotation-90_227_test_mc_0_input.png",
+        "option_image_b": "harsh/cookiefortune_2DRotation-90_227_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/fan_2DRotation-90_228_test_0_input.png",
+        "option_image_a": "harsh/fan_2DRotation-90_228_test_mc_0_input.png",
+        "option_image_b": "harsh/fan_2DRotation-90_228_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/grapes_2DRotation-90_229_test_0_input.png",
+        "option_image_a": "harsh/grapes_2DRotation-90_229_test_mc_0_input.png",
+        "option_image_b": "harsh/grapes_2DRotation-90_229_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/penguin_2DRotation-90_230_test_0_input.png",
+        "option_image_a": "harsh/penguin_2DRotation-90_230_test_mc_0_input.png",
+        "option_image_b": "harsh/penguin_2DRotation-90_230_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/milkcat_2DRotation-90_231_test_0_input.png",
+        "option_image_a": "harsh/milkcat_2DRotation-90_231_test_mc_0_input.png",
+        "option_image_b": "harsh/milkcat_2DRotation-90_231_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/deer_2DRotation-90_232_test_0_input.png",
+        "option_image_a": "harsh/deer_2DRotation-90_232_test_mc_0_input.png",
+        "option_image_b": "harsh/deer_2DRotation-90_232_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/shoe1_2DRotation-90_233_test_0_input.png",
+        "option_image_a": "harsh/shoe1_2DRotation-90_233_test_mc_0_input.png",
+        "option_image_b": "harsh/shoe1_2DRotation-90_233_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/ChessBishop_2DRotation-90_234_test_0_input.png",
+        "option_image_a": "harsh/ChessBishop_2DRotation-90_234_test_mc_0_input.png",
+        "option_image_b": "harsh/ChessBishop_2DRotation-90_234_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/DuckSide_2DRotation-90_235_test_0_input.png",
+        "option_image_a": "harsh/DuckSide_2DRotation-90_235_test_mc_0_input.png",
+        "option_image_b": "harsh/DuckSide_2DRotation-90_235_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Boat_2DRotation-90_236_test_0_input.png",
+        "option_image_a": "harsh/Boat_2DRotation-90_236_test_mc_0_input.png",
+        "option_image_b": "harsh/Boat_2DRotation-90_236_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Camel_2DRotation-90_237_test_0_input.png",
+        "option_image_a": "harsh/Camel_2DRotation-90_237_test_mc_0_input.png",
+        "option_image_b": "harsh/Camel_2DRotation-90_237_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/clock_2DRotation-90_238_test_0_input.png",
+        "option_image_a": "harsh/clock_2DRotation-90_238_test_mc_0_input.png",
+        "option_image_b": "harsh/clock_2DRotation-90_238_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/poodle_2DRotation-90_239_test_0_input.png",
+        "option_image_a": "harsh/poodle_2DRotation-90_239_test_mc_0_input.png",
+        "option_image_b": "harsh/poodle_2DRotation-90_239_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/airplane_2DRotation-90_240_test_0_input.png",
+        "option_image_a": "harsh/airplane_2DRotation-90_240_test_mc_0_input.png",
+        "option_image_b": "harsh/airplane_2DRotation-90_240_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/flowertree_2DRotation-90_241_test_0_input.png",
+        "option_image_a": "harsh/flowertree_2DRotation-90_241_test_mc_0_input.png",
+        "option_image_b": "harsh/flowertree_2DRotation-90_241_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/octopus_2DRotation-90_242_test_0_input.png",
+        "option_image_a": "harsh/octopus_2DRotation-90_242_test_mc_0_input.png",
+        "option_image_b": "harsh/octopus_2DRotation-90_242_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Blimp_2DRotation-90_243_test_0_input.png",
+        "option_image_a": "harsh/Blimp_2DRotation-90_243_test_mc_0_input.png",
+        "option_image_b": "harsh/Blimp_2DRotation-90_243_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/shark_2DRotation-90_244_test_0_input.png",
+        "option_image_a": "harsh/shark_2DRotation-90_244_test_mc_0_input.png",
+        "option_image_b": "harsh/shark_2DRotation-90_244_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/fries_2DRotation-90_245_test_0_input.png",
+        "option_image_a": "harsh/fries_2DRotation-90_245_test_mc_0_input.png",
+        "option_image_b": "harsh/fries_2DRotation-90_245_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/chairoffice_2DRotation-90_246_test_0_input.png",
+        "option_image_a": "harsh/chairoffice_2DRotation-90_246_test_mc_0_input.png",
+        "option_image_b": "harsh/chairoffice_2DRotation-90_246_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Luffy_2DRotation-90_247_test_0_input.png",
+        "option_image_a": "harsh/Luffy_2DRotation-90_247_test_mc_0_input.png",
+        "option_image_b": "harsh/Luffy_2DRotation-90_247_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/loaf_2DRotation-90_248_test_0_input.png",
+        "option_image_a": "harsh/loaf_2DRotation-90_248_test_mc_0_input.png",
+        "option_image_b": "harsh/loaf_2DRotation-90_248_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/dogtoy_2DRotation-90_249_test_0_input.png",
+        "option_image_a": "harsh/dogtoy_2DRotation-90_249_test_mc_0_input.png",
+        "option_image_b": "harsh/dogtoy_2DRotation-90_249_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/chickenracer_2DRotation-90_250_test_0_input.png",
+        "option_image_a": "harsh/chickenracer_2DRotation-90_250_test_mc_0_input.png",
+        "option_image_b": "harsh/chickenracer_2DRotation-90_250_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/car_2DRotation-90_251_test_0_input.png",
+        "option_image_a": "harsh/car_2DRotation-90_251_test_mc_0_input.png",
+        "option_image_b": "harsh/car_2DRotation-90_251_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/dinosaur_2DRotation-90_252_test_0_input.png",
+        "option_image_a": "harsh/dinosaur_2DRotation-90_252_test_mc_0_input.png",
+        "option_image_b": "harsh/dinosaur_2DRotation-90_252_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Cat_2DRotation-90_253_test_0_input.png",
+        "option_image_a": "harsh/Cat_2DRotation-90_253_test_mc_0_input.png",
+        "option_image_b": "harsh/Cat_2DRotation-90_253_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/croissant_2DRotation-90_254_test_0_input.png",
+        "option_image_a": "harsh/croissant_2DRotation-90_254_test_mc_0_input.png",
+        "option_image_b": "harsh/croissant_2DRotation-90_254_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/mug_2DRotation-90_255_test_0_input.png",
+        "option_image_a": "harsh/mug_2DRotation-90_255_test_mc_0_input.png",
+        "option_image_b": "harsh/mug_2DRotation-90_255_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/flower_2DRotation-90_256_test_0_input.png",
+        "option_image_a": "harsh/flower_2DRotation-90_256_test_mc_0_input.png",
+        "option_image_b": "harsh/flower_2DRotation-90_256_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/marigold_2DRotation-90_257_test_0_input.png",
+        "option_image_a": "harsh/marigold_2DRotation-90_257_test_mc_0_input.png",
+        "option_image_b": "harsh/marigold_2DRotation-90_257_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Monimop_2DRotation-90_258_test_0_input.png",
+        "option_image_a": "harsh/Monimop_2DRotation-90_258_test_mc_0_input.png",
+        "option_image_b": "harsh/Monimop_2DRotation-90_258_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Cactus_2DRotation-90_259_test_0_input.png",
+        "option_image_a": "harsh/Cactus_2DRotation-90_259_test_mc_0_input.png",
+        "option_image_b": "harsh/Cactus_2DRotation-90_259_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Bass_2DRotation-90_260_test_0_input.png",
+        "option_image_a": "harsh/Bass_2DRotation-90_260_test_mc_0_input.png",
+        "option_image_b": "harsh/Bass_2DRotation-90_260_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/pig_2DRotation-90_261_test_0_input.png",
+        "option_image_a": "harsh/pig_2DRotation-90_261_test_mc_0_input.png",
+        "option_image_b": "harsh/pig_2DRotation-90_261_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/icecreamcone_2DRotation-90_262_test_0_input.png",
+        "option_image_a": "harsh/icecreamcone_2DRotation-90_262_test_mc_0_input.png",
+        "option_image_b": "harsh/icecreamcone_2DRotation-90_262_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/gingerbreadman_2DRotation-90_263_test_0_input.png",
+        "option_image_a": "harsh/gingerbreadman_2DRotation-90_263_test_mc_0_input.png",
+        "option_image_b": "harsh/gingerbreadman_2DRotation-90_263_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/bunny_2DRotation-90_264_test_0_input.png",
+        "option_image_a": "harsh/bunny_2DRotation-90_264_test_mc_0_input.png",
+        "option_image_b": "harsh/bunny_2DRotation-90_264_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/cap_2DRotation-90_265_test_0_input.png",
+        "option_image_a": "harsh/cap_2DRotation-90_265_test_mc_0_input.png",
+        "option_image_b": "harsh/cap_2DRotation-90_265_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/butterfly_2DRotation-90_266_test_0_input.png",
+        "option_image_a": "harsh/butterfly_2DRotation-90_266_test_mc_0_input.png",
+        "option_image_b": "harsh/butterfly_2DRotation-90_266_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Radio_2DRotation-90_267_test_0_input.png",
+        "option_image_a": "harsh/Radio_2DRotation-90_267_test_mc_0_input.png",
+        "option_image_b": "harsh/Radio_2DRotation-90_267_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/sofa1_2DRotation-90_268_test_0_input.png",
+        "option_image_a": "harsh/sofa1_2DRotation-90_268_test_mc_0_input.png",
+        "option_image_b": "harsh/sofa1_2DRotation-90_268_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Stroller_2DRotation-90_269_test_0_input.png",
+        "option_image_a": "harsh/Stroller_2DRotation-90_269_test_mc_0_input.png",
+        "option_image_b": "harsh/Stroller_2DRotation-90_269_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Plane_2DRotation-90_270_test_0_input.png",
+        "option_image_a": "harsh/Plane_2DRotation-90_270_test_mc_0_input.png",
+        "option_image_b": "harsh/Plane_2DRotation-90_270_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/icecream_2DRotation-90_271_test_0_input.png",
+        "option_image_a": "harsh/icecream_2DRotation-90_271_test_mc_0_input.png",
+        "option_image_b": "harsh/icecream_2DRotation-90_271_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/guitar_2DRotation-90_272_test_0_input.png",
+        "option_image_a": "harsh/guitar_2DRotation-90_272_test_mc_0_input.png",
+        "option_image_b": "harsh/guitar_2DRotation-90_272_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/motorcycle_2DRotation-90_273_test_0_input.png",
+        "option_image_a": "harsh/motorcycle_2DRotation-90_273_test_mc_0_input.png",
+        "option_image_b": "harsh/motorcycle_2DRotation-90_273_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/hat_2DRotation-90_274_test_0_input.png",
+        "option_image_a": "harsh/hat_2DRotation-90_274_test_mc_0_input.png",
+        "option_image_b": "harsh/hat_2DRotation-90_274_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/LegoBicycle_2DRotation-90_275_test_0_input.png",
+        "option_image_a": "harsh/LegoBicycle_2DRotation-90_275_test_mc_0_input.png",
+        "option_image_b": "harsh/LegoBicycle_2DRotation-90_275_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Nerfgun_2DRotation-90_276_test_0_input.png",
+        "option_image_a": "harsh/Nerfgun_2DRotation-90_276_test_mc_0_input.png",
+        "option_image_b": "harsh/Nerfgun_2DRotation-90_276_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/doll_2DRotation-90_277_test_0_input.png",
+        "option_image_a": "harsh/doll_2DRotation-90_277_test_mc_0_input.png",
+        "option_image_b": "harsh/doll_2DRotation-90_277_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/cow_2DRotation-90_278_test_0_input.png",
+        "option_image_a": "harsh/cow_2DRotation-90_278_test_mc_0_input.png",
+        "option_image_b": "harsh/cow_2DRotation-90_278_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/chicken_2DRotation-90_279_test_0_input.png",
+        "option_image_a": "harsh/chicken_2DRotation-90_279_test_mc_0_input.png",
+        "option_image_b": "harsh/chicken_2DRotation-90_279_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/NoiseToy_2DRotation-90_280_test_0_input.png",
+        "option_image_a": "harsh/NoiseToy_2DRotation-90_280_test_mc_0_input.png",
+        "option_image_b": "harsh/NoiseToy_2DRotation-90_280_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/lion_2DRotation-90_281_test_0_input.png",
+        "option_image_a": "harsh/lion_2DRotation-90_281_test_mc_0_input.png",
+        "option_image_b": "harsh/lion_2DRotation-90_281_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/cakelayered_2DRotation-90_282_test_0_input.png",
+        "option_image_a": "harsh/cakelayered_2DRotation-90_282_test_mc_0_input.png",
+        "option_image_b": "harsh/cakelayered_2DRotation-90_282_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/mouse_2DRotation-90_283_test_0_input.png",
+        "option_image_a": "harsh/mouse_2DRotation-90_283_test_mc_0_input.png",
+        "option_image_b": "harsh/mouse_2DRotation-90_283_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/closet_2DRotation-90_284_test_0_input.png",
+        "option_image_a": "harsh/closet_2DRotation-90_284_test_mc_0_input.png",
+        "option_image_b": "harsh/closet_2DRotation-90_284_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/giraffe_2DRotation-90_285_test_0_input.png",
+        "option_image_a": "harsh/giraffe_2DRotation-90_285_test_mc_0_input.png",
+        "option_image_b": "harsh/giraffe_2DRotation-90_285_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/ladder_2DRotation-90_286_test_0_input.png",
+        "option_image_a": "harsh/ladder_2DRotation-90_286_test_mc_0_input.png",
+        "option_image_b": "harsh/ladder_2DRotation-90_286_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/lunchbag_2DRotation-90_287_test_0_input.png",
+        "option_image_a": "harsh/lunchbag_2DRotation-90_287_test_mc_0_input.png",
+        "option_image_b": "harsh/lunchbag_2DRotation-90_287_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Elephant_2DRotation-90_288_test_0_input.png",
+        "option_image_a": "harsh/Elephant_2DRotation-90_288_test_mc_0_input.png",
+        "option_image_b": "harsh/Elephant_2DRotation-90_288_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/PirateShip_2DRotation-90_289_test_0_input.png",
+        "option_image_a": "harsh/PirateShip_2DRotation-90_289_test_mc_0_input.png",
+        "option_image_b": "harsh/PirateShip_2DRotation-90_289_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/Drill_2DRotation-90_290_test_0_input.png",
+        "option_image_a": "harsh/Drill_2DRotation-90_290_test_mc_0_input.png",
+        "option_image_b": "harsh/Drill_2DRotation-90_290_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/clownfish_2DRotation-90_291_test_0_input.png",
+        "option_image_a": "harsh/clownfish_2DRotation-90_291_test_mc_0_input.png",
+        "option_image_b": "harsh/clownfish_2DRotation-90_291_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/frog_2DRotation-90_292_test_0_input.png",
+        "option_image_a": "harsh/frog_2DRotation-90_292_test_mc_0_input.png",
+        "option_image_b": "harsh/frog_2DRotation-90_292_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/crabhermit_2DRotation-90_293_test_0_input.png",
+        "option_image_a": "harsh/crabhermit_2DRotation-90_293_test_mc_0_input.png",
+        "option_image_b": "harsh/crabhermit_2DRotation-90_293_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/kayak_2DRotation-90_294_test_0_input.png",
+        "option_image_a": "harsh/kayak_2DRotation-90_294_test_mc_0_input.png",
+        "option_image_b": "harsh/kayak_2DRotation-90_294_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/piano_2DRotation-90_295_test_0_input.png",
+        "option_image_a": "harsh/piano_2DRotation-90_295_test_mc_0_input.png",
+        "option_image_b": "harsh/piano_2DRotation-90_295_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/snake1_2DRotation-90_296_test_0_input.png",
+        "option_image_a": "harsh/snake1_2DRotation-90_296_test_mc_0_input.png",
+        "option_image_b": "harsh/snake1_2DRotation-90_296_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/fox_2DRotation-90_297_test_0_input.png",
+        "option_image_a": "harsh/fox_2DRotation-90_297_test_mc_0_input.png",
+        "option_image_b": "harsh/fox_2DRotation-90_297_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/fish_2DRotation-90_298_test_0_input.png",
+        "option_image_a": "harsh/fish_2DRotation-90_298_test_mc_0_input.png",
+        "option_image_b": "harsh/fish_2DRotation-90_298_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    },
+    {
+        "input_image": "harsh/cake_2DRotation-90_299_test_0_input.png",
+        "option_image_a": "harsh/cake_2DRotation-90_299_test_mc_0_input.png",
+        "option_image_b": "harsh/cake_2DRotation-90_299_test_mc_1_input.png",
+        "question": "Which image shows the object rotated by -90 degrees?",
+        "ground_truth_answer": "A"
+    }
+]
